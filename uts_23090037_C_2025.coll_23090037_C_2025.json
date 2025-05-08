@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "681c10601cc30e0d2c22481a"
+  },
+  "nama": "saep",
+  "usia": 17,
+  "alamat": "tegal "
+},
+{
+  "_id": {
+    "$oid": "681c10721cc30e0d2c22481b"
+  },
+  "nama": "adit",
+  "usia": 18,
+  "alamat": "tegal,adiwerna"
+}]
